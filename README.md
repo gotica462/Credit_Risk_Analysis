@@ -17,6 +17,18 @@ See below for the balanced accuracy score and imbalanced classification report
 
 ![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Naive%20Oversamplin%20precision%20report.png) 
 
+The balanced accuracy score is 64%, the recall score is 60% and the F1 score is 74%
+
+### SMOTE Oversampling
+
+See below for the balanced accuracy score and imbalanced classification report
+
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/SMOTE%20Oversampling%20Accuracy.png)
+
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/SMOTE%20Oversampling%20precision%20report.png)
+
+
+
 
 
 
