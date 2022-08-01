@@ -9,7 +9,14 @@
 
 ## Results
 
-# Naive Random Oversampling 
+### Naive Random Oversampling 
+
+See below for the balanced accuracy score and imbalanced classification report
+
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Naive%20Oversampling%201.png)
+
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Naive%20Oversamplin%20precision%20report.png) 
+
 
 
 
