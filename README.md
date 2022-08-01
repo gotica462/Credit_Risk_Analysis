@@ -37,14 +37,18 @@ See below for the balanced accuracy score and imbalanced classification report
 
 ![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/cluster%20centroid%20precision%20report.png)
 
+The balanced accuracy score is 53%, the recall score is 45% and the F1 score is 62%
 
-### SMOTEEN (Combination of Over and Under Sampling)
+### SMOTEENN (Combination of Over and Under Sampling)
 
 See below for the balanced accuracy score and imbalanced classification report
 
 ![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN%20accuracy%20report.png)
 
 ![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN%20precision%20report.png)
+
+The balanced accuracy score is 62%, the recall score is 56% and the F1 score is 71%
+
 
 ###  Balanced Random Forest Classifier
 
@@ -54,12 +58,19 @@ See below for the balanced accuracy score and imbalanced classification report
 
 ![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/Random%20Forest%20Precision%20Report.png)
 
+The balanced accuracy score is 79%, the recall score is 91% and the F1 score is 95%
+
 ### Easy Ensemble AdaBoost Classifier
 
 See below for the balanced accuracy score and imbalanced classification report
 
 ![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/Easy%20Ensemble%20Accuracy.png)
+
 ![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN%20precision%20report.png)
+
+The balanced accuracy score is 93%, the recall score is 97% and the F1 score is 94%
+
+## Summary
 
 
 
