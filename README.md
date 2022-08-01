@@ -14,10 +14,9 @@
 See below for the balanced accuracy score and imbalanced classification report
 
 ![image]
-
 ![image]
 
-The balanced accuracy score is 64%, the recall score is 60% and the F1 score is 74%
+The balanced accuracy score is 66%, the recall score is 67% and the F1 score is 80%
 
 ### SMOTE Oversampling
 
@@ -26,6 +25,20 @@ See below for the balanced accuracy score and imbalanced classification report
 ![image]
 
 ![image]
+
+The balanced accuracy score is 66%, the recall score is 66% and the F1 score is 79%
+
+### Cluster Centroids Undersampling 
+
+See below for the balanced accuracy score and imbalanced classification report
+
+
+
+### SMOTEEN (Combination of Over and Under Sampling)
+
+
+See below for the balanced accuracy score and imbalanced classification report
+
 
 
 
