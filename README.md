@@ -74,6 +74,9 @@ The balanced accuracy score is 93%, the recall score is 97% and the F1 score is 
 
 We'll now evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
 
+The first four models of resampling,whereras is Oversampling (Random or SMOTE), Undersampling (Cluster Centroids) or a combination of both(SMOTEENN), did not give us an accuracy of more than 66%. Therefore I would not consider them reliable for credit risk analysis. Also the recall numbers of those 4 models are also under 70% percent. 
+
+I would recommend using the ensemble models. Specu=ifically, I woudl recommend to use the Easy Ensemble AdaBoost Classifier since it has an accuracy of more than 93%, the recall score is also higher than 95% and more importantly the F1 score (the harmonic mean of precision and recall) is the highest of all the models at 94%.
 
 
 
@@ -89,4 +92,7 @@ We'll now evaluate the performance of these models and make a written recommenda
 
 
 
-Once you’re done, you’ll evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
+
+
+
+
