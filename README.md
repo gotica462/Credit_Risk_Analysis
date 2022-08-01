@@ -13,8 +13,9 @@
 
 See below for the balanced accuracy score and imbalanced classification report
 
-![image]
-![image]
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/Naive%20Oversampling%201.png)
+
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/Naive%20Oversamplin%20precision%20report.png)
 
 The balanced accuracy score is 66%, the recall score is 67% and the F1 score is 80%
 
@@ -22,9 +23,9 @@ The balanced accuracy score is 66%, the recall score is 67% and the F1 score is 
 
 See below for the balanced accuracy score and imbalanced classification report
 
-![image]
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20Oversampling%20Accuracy.png)
 
-![image]
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/SMOTE%20Oversampling%20precision%20report.png)
 
 The balanced accuracy score is 66%, the recall score is 66% and the F1 score is 79%
 
@@ -32,12 +33,38 @@ The balanced accuracy score is 66%, the recall score is 66% and the F1 score is 
 
 See below for the balanced accuracy score and imbalanced classification report
 
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/Cluster%20Centroid%20accuracy.png)
+
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/cluster%20centroid%20precision%20report.png)
 
 
 ### SMOTEEN (Combination of Over and Under Sampling)
 
+See below for the balanced accuracy score and imbalanced classification report
+
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN%20accuracy%20report.png)
+
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN%20precision%20report.png)
+
+###  Balanced Random Forest Classifier
 
 See below for the balanced accuracy score and imbalanced classification report
+
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/Random%20Forest%20Accuracy%20.png)
+
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/Random%20Forest%20Precision%20Report.png)
+
+### Easy Ensemble AdaBoost Classifier
+
+See below for the balanced accuracy score and imbalanced classification report
+
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/Easy%20Ensemble%20Accuracy.png)
+![image](https://github.com/gotica462/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN%20precision%20report.png)
+
+
+
+
+
 
 
 
