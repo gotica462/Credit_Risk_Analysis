@@ -72,6 +72,9 @@ The balanced accuracy score is 93%, the recall score is 97% and the F1 score is 
 
 ## Summary
 
+We'll now evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
+
+
 
 
 
